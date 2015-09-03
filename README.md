@@ -1,0 +1,2 @@
+# nglog
+Next generation Logger
